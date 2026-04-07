@@ -1,6 +1,6 @@
 @startuml
 
 title Sample UML
-Alice -> Charlie: Do smthg
+Alice -> Charlie: Do smthg 1258
 Charlie <-- Alice: Return
 @enduml
