@@ -1,0 +1,6 @@
+@startuml
+
+Alice->Tom: Send Request
+Tom -> Paul: Write code
+
+@enduml
