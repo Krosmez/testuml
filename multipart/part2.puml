@@ -1,0 +1,7 @@
+@startuml
+
+Tom -> Tom: code somthg
+
+Tom --> Charlie: Send email OK
+ 
+@enduml

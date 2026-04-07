@@ -1,0 +1,10 @@
+@startuml
+
+title Sample UML
+Alice -> Charlie: Ask info
+
+ref over Charlie: Voir part1.puml
+ref over Charlie: Voir part2.puml
+
+Charlie --> Alice: Return info OK
+@enduml

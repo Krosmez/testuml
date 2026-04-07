@@ -1,0 +1,7 @@
+@startuml
+
+Charlie -> Charlie: Process data
+
+Charlie -> Tom: Send email
+ 
+@enduml
