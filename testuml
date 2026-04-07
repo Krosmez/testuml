@@ -1,0 +1,6 @@
+@startuml
+
+title Sample UML
+Alice -> Charlie: Do smthg
+Charlie <-- Alice: Return
+@enduml
