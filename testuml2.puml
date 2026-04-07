@@ -1,3 +1,5 @@
-title Sample UML
-Alice -> Charlie: Do smthg
-Charlie <-- Alice: Return
+@startuml
+title Sample UML 2
+Alice -> Charlie: Do smthg now
+Charlie <-- Alice: Return this
+@enduml
