@@ -1,8 +1,9 @@
 @startuml
 
   Alice -> Paul : Change
-  ref over Alive
+  ref over Alice
     [[test2.puml]]
+!includeurl https://raw.githubusercontent.com/Krosmez/testuml/refs/heads/main/test2.puml
   end ref
   
   Paul -> Alice : Return
