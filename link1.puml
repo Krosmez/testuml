@@ -1,0 +1,10 @@
+@startuml
+
+  Alice -> Paul : Change
+  ref over Alive
+    [[test2.puml]]
+  end ref
+  
+  Paul -> Alice : Return
+
+@enduml
